@@ -1,2 +1,3 @@
 This is a sample file
 Seocnd line for second commit
+This line is added from master branch
